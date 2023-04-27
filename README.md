@@ -1,9 +1,7 @@
 # BOJ-STS-
 백준/ 단계별로 풀어보기 / https://www.acmicpc.net/step / 이거 쓴사람 - https://www.acmicpc.net/user/dominique117 
 
-)dominique117
-
-## 새로 알게된 것, 모르는 것 정리
+# 새로 알게된 것, 모르는 것 정리
 
 - 배열의 insert() 함수의 경우 데이터가 없다면, pos는 자동으로 맨 끝의 index가 할당되게 된다.
 
