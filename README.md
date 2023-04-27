@@ -1,5 +1,5 @@
 # BOJ-STS-
-백준/ 단계별로 풀어보기 / https://www.acmicpc.net/step
+백준/ 단계별로 풀어보기 / https://www.acmicpc.net/step / 이거 쓴사람 - https://www.acmicpc.net/user/dominique117
 
 ## 새로 알게된 것, 모르는 것 정리
 
